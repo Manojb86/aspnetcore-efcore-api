@@ -1,0 +1,12 @@
+C:\A_DRIVE\Dev_Stuff\POC\.NET\WebApiEFCore\WebApiEFCore.Data\bin\Debug\netstandard2.0\WebApiEFCore.Data.deps.json
+C:\A_DRIVE\Dev_Stuff\POC\.NET\WebApiEFCore\WebApiEFCore.Data\bin\Debug\netstandard2.0\WebApiEFCore.Data.dll
+C:\A_DRIVE\Dev_Stuff\POC\.NET\WebApiEFCore\WebApiEFCore.Data\bin\Debug\netstandard2.0\WebApiEFCore.Data.pdb
+C:\A_DRIVE\Dev_Stuff\POC\.NET\WebApiEFCore\WebApiEFCore.Data\bin\Debug\netstandard2.0\WebApiEFCore.Model.dll
+C:\A_DRIVE\Dev_Stuff\POC\.NET\WebApiEFCore\WebApiEFCore.Data\bin\Debug\netstandard2.0\WebApiEFCore.Model.pdb
+C:\A_DRIVE\Dev_Stuff\POC\.NET\WebApiEFCore\WebApiEFCore.Data\obj\Debug\netstandard2.0\WebApiEFCore.Data.csprojAssemblyReference.cache
+C:\A_DRIVE\Dev_Stuff\POC\.NET\WebApiEFCore\WebApiEFCore.Data\obj\Debug\netstandard2.0\WebApiEFCore.Data.csproj.CoreCompileInputs.cache
+C:\A_DRIVE\Dev_Stuff\POC\.NET\WebApiEFCore\WebApiEFCore.Data\obj\Debug\netstandard2.0\WebApiEFCore.Data.AssemblyInfoInputs.cache
+C:\A_DRIVE\Dev_Stuff\POC\.NET\WebApiEFCore\WebApiEFCore.Data\obj\Debug\netstandard2.0\WebApiEFCore.Data.AssemblyInfo.cs
+C:\A_DRIVE\Dev_Stuff\POC\.NET\WebApiEFCore\WebApiEFCore.Data\obj\Debug\netstandard2.0\WebApiEFCore.Data.csproj.CopyComplete
+C:\A_DRIVE\Dev_Stuff\POC\.NET\WebApiEFCore\WebApiEFCore.Data\obj\Debug\netstandard2.0\WebApiEFCore.Data.dll
+C:\A_DRIVE\Dev_Stuff\POC\.NET\WebApiEFCore\WebApiEFCore.Data\obj\Debug\netstandard2.0\WebApiEFCore.Data.pdb
